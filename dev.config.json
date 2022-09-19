@@ -1,0 +1,9 @@
+{
+    "Environment": {
+        "AutomationURL": "https://www.google.com/",
+        "ShortTimeout": 30000,
+        "DefaultTimeout": 60000,
+        "LongTimeout": 120000
+    }
+    
+}

@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "demoTest": "testcafe chrome tests/KurtosysTest.js -s takeOnFails=true --skip-js-errors --speed 0.1" 
+   
+    
+},
+  "devDependencies": {
+    "testcafe": "^1.18.1"
+  }
+}
